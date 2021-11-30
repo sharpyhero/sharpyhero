@@ -15,7 +15,7 @@
 
 <div align="left">
     <a href="https://discord.com/users/706849199706341447" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=instagram"></a>
+    <a href="https://instagram.com/sharyair" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=instagram"></a>
     <a href="https://discord.gg/dej3ApZmUs" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
 
     
