@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/908772150993895434/915274490299170816/README.png" align="right" widht="200" height="200">
+
 
 
 ## Hi there, I'm Sharpy. :blush: 
@@ -15,8 +15,8 @@
 
 <div align="left">
     <a href="https://discord.com/users/706849199706341447" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://instagram.com/sharyair" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=instagram"></a>
-    <a href="https://discord.gg/dej3ApZmUs" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://instagram.com/sharpyair" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=instagram"></a>
+    <a href="https://discord.gg/8T93vVBuGP" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
 
     
 </div>
