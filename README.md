@@ -14,9 +14,9 @@
 <br />
 
 <div align="left">
-    <a href="https://discord.com/users/706849199706341447" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://instagram.com/sharpyair" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=instagram"></a>
-    <a href="https://discord.gg/8T93vVBuGP" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.com/users/354710015829082133" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://instagram.com/sharphero" target="_blank"><img src="https://shields.io/badge/sharpy-111111.svg?&style=for-the-badge&logo=instagram"></a>
+    <a href="https://discord.gg/DFp7nr2FnW" target="_blank"><img src="https://shields.io/badge/Discord Server-111111.svg?&style=for-the-badge"></a>
 
     
 </div>
