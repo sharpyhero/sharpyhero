@@ -35,11 +35,6 @@
 
 <br />
 
-## 🥑 My Github Stats
-
-<br />
-
-![Sharpy](https://github-readme-stats.vercel.app/api?username=sharpyair&show_icons=true&theme=radical)
 
 
 
